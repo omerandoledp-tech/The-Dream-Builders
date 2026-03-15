@@ -1,7 +1,5 @@
 # The-Dream-Builders
 
->>Player Instructions:
-
 >Controls:
 
 Use the upward arrow/W to move forward, left arrow/A and right arrow/D to move left and right respectively, and downward arrow/S to move backward. Use the mouse to change the camera's perspective. 
